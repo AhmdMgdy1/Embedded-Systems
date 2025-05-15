@@ -32,7 +32,7 @@
    * Parameters:
    *   - REG: Register to set the bit.
    *   - PIN: Bit position to set.
-   * Algorithm: Use bitwise XOR "^" to set the specified bit in the register.
+   * Algorithm: Use bitwise XOR ^ to set the specified bit in the register.
    */
 #define TOG_BIT( REG , PIN )    ( REG ^= (1 << PIN ))
 

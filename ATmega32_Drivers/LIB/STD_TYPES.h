@@ -18,7 +18,7 @@
 
 /*
  * Description : Re-define of all the Primitive Data Types in C programming to make it referable
- *               to the number of bits included by each Data Type...
+ *               to the number of bits included by each Data Type..
  */
 typedef unsigned char         uint8;          /*           0 .. 255              */
 typedef signed char           sint8;          /*        -128 .. +127             */
